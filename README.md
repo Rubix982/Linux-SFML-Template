@@ -17,5 +17,3 @@ To build the project ( in linux ), just run
 
 - [SFML Homepage](https://www.sfml-dev.org/index.php)
 - [Learn SFML](https://www.sfml-dev.org/learn.php)
-# Linux-SFML-Template
-# Linux-SFML-template
